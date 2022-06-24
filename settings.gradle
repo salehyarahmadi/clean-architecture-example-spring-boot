@@ -1,0 +1,6 @@
+rootProject.name = 'clean-architecture-example-spring-boot'
+
+include('domain')
+include('data')
+include('presentation')
+include('application')
