@@ -27,6 +27,8 @@ public class Bootstrap implements CommandLineRunner {
     }
 
     private void loadCategories() {
+        if (categoryJpaRepository.count() > 0) return;
+
         CategoryDB fruits = new CategoryDB();
         fruits.setName("Fruits");
 
@@ -52,6 +54,8 @@ public class Bootstrap implements CommandLineRunner {
     }
 
     private void loadCustomers() {
+        if (customerJpaRepository.count() > 0) return;
+
         CustomerDB customer1 = new CustomerDB();
         customer1.setId(1L);
         customer1.setFirstName("Michale");
