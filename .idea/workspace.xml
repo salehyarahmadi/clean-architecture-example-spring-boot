@@ -6,67 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="29005be0-b87a-4394-9175-79b16effd812" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/application.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/data/spring-shop-api.data.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/domain/spring-shop-api.domain.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/presentation/spring-shop-api.presentation.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-shop-api.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/build/classes/java/main/com/example/application/configuration/ApplicationConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/application/build/classes/java/main/com/example/application/configuration/ApplicationConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/application/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bootJarMainClassName" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/clean-architecture-example-spring-boot-0.0.1-SNAPSHOT-plain.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/clean-architecture-example-spring-boot-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/data/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/build/classes/java/main/com/example/data/database/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/data/build/classes/java/main/com/example/data/database/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/build/classes/java/main/com/example/data/database/JpaDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/data/build/classes/java/main/com/example/data/database/JpaDatabase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/build/classes/java/main/com/example/data/gateway/category/JpaCategoryGateway.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/build/classes/java/main/com/example/data/gateway/customer/JpaCustomerGateway.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/build/libs/data-0.0.1-SNAPSHOT-plain.jar" beforeDir="false" afterPath="$PROJECT_DIR$/data/build/libs/data-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/data/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/example/data/bootstrap/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data/bootstrap/Bootstrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/gateway/category/CategoryGateway$CategoryNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/gateway/category/CategoryGateway.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/gateway/customer/CustomerGateway$CustomerFirstNameIsEmpty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/gateway/customer/CustomerGateway$CustomerLastNameIsEmpty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/gateway/customer/CustomerGateway$CustomerNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/gateway/customer/CustomerGateway.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/category/GetAllCategoriesUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/category/GetAllCategoriesUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/category/GetCategoryByNameUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/category/GetCategoryByNameUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/CreateNewCustomerUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/CreateNewCustomerUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/DeleteCustomerByIdUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/DeleteCustomerByIdUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/GetAllCustomersUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/GetAllCustomersUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/GetCustomerByIdUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/GetCustomerByIdUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/PatchCustomerUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/PatchCustomerUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/UpdateCustomerUseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/classes/java/main/com/example/domain/usecase/customer/UpdateCustomerUseCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/libs/domain-0.0.1-SNAPSHOT-plain.jar" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/libs/domain-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/build/classes/java/main/com/example/presentation/controller/customer/get/all/GetAllCustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/presentation/build/classes/java/main/com/example/presentation/controller/customer/get/all/GetAllCustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/build/classes/java/main/com/example/presentation/exception/ErrorResponse$ErrorResponseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/build/classes/java/main/com/example/presentation/exception/ErrorResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/build/classes/java/main/com/example/presentation/exception/ExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/presentation/build/classes/java/main/com/example/presentation/exception/ExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/build/classes/java/main/com/example/presentation/exception/ExceptionMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/presentation/build/classes/java/main/com/example/presentation/exception/ExceptionMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/build/libs/presentation-0.0.1-SNAPSHOT-plain.jar" beforeDir="false" afterPath="$PROJECT_DIR$/presentation/build/libs/presentation-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/presentation/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/presentation/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -407,7 +356,8 @@
       <workItem from="1656584152651" duration="823000" />
       <workItem from="1656585064196" duration="2840000" />
       <workItem from="1656587986774" duration="1630000" />
-      <workItem from="1656589709705" duration="581000" />
+      <workItem from="1656589709705" duration="808000" />
+      <workItem from="1656590591214" duration="37000" />
     </task>
     <servers />
   </component>
